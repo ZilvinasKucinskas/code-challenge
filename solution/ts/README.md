@@ -30,7 +30,7 @@ To generate result content and save onto a file:
 
 ```sh
 cd /PATH/TO/PROJECT/solution/ts
-npm run --silent ts src/app.ts > ./results/actual.json
+npm run --silent ts src/app.ts > ./results/actual-array.json
 ```
 
 ### Assert
